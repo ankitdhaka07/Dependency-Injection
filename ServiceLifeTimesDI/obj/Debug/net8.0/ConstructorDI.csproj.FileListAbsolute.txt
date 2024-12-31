@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\bin\Debug\net8.0\ConstructorDI.exe
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\bin\Debug\net8.0\ConstructorDI.deps.json
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\bin\Debug\net8.0\ConstructorDI.runtimeconfig.json
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\bin\Debug\net8.0\ConstructorDI.dll
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\bin\Debug\net8.0\ConstructorDI.pdb
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ConstructorDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ConstructorDI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ConstructorDI.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ConstructorDI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ConstructorDI.dll
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\refint\ConstructorDI.dll
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ConstructorDI.pdb
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ConstructorDI.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\DependencyInjection\ConstructorDI\obj\Debug\net8.0\ref\ConstructorDI.dll

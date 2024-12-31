@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\dependencyinjection\\waysofimplementingdi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\dependencyinjection\\waysofimplementingdi\\constructorinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|solutionrelative:constructorinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\dependencyinjection\\waysofimplementingdi\\imailservicedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|solutionrelative:imailservicedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\dependencyinjection\\waysofimplementingdi\\methodinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|solutionrelative:methodinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\dependencyinjection\\waysofimplementingdi\\mailservicedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|solutionrelative:mailservicedependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|c:\\users\\lenovo\\onedrive\\desktop\\ariqt\\interns-be\\ankit\\dependencyinjection\\waysofimplementingdi\\propertyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD1B9CE-1A5D-47A7-80CE-2D9B708DF991}|WaysOfImplementingDI.csproj|solutionrelative:propertyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:21:46.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\PropertyInjection.cs",
+              "RelativeDocumentMoniker": "PropertyInjection.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\PropertyInjection.cs",
+              "RelativeToolTip": "PropertyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:21:42.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConstructorInjection.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\ConstructorInjection.cs",
+              "RelativeDocumentMoniker": "ConstructorInjection.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\ConstructorInjection.cs",
+              "RelativeToolTip": "ConstructorInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:20:43.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MethodInjection.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\MethodInjection.cs",
+              "RelativeDocumentMoniker": "MethodInjection.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\MethodInjection.cs",
+              "RelativeToolTip": "MethodInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:21:19.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMailServiceDependency.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\IMailServiceDependency.cs",
+              "RelativeDocumentMoniker": "IMailServiceDependency.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\IMailServiceDependency.cs",
+              "RelativeToolTip": "IMailServiceDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:21:14.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MailServiceDependency.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\MailServiceDependency.cs",
+              "RelativeDocumentMoniker": "MailServiceDependency.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\Ariqt\\Interns-BE\\Ankit\\DependencyInjection\\WaysOfImplementingDI\\MailServiceDependency.cs",
+              "RelativeToolTip": "MailServiceDependency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:20:43.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
